@@ -4,7 +4,7 @@ class Buffer:
 
     def add(self, *a):
         self.bl += list(a)
-        while (self.bl)>=5:
+        while len(self.bl)>=5:
             print(sum(self.bl[0:5]))
             self.bl= self.bl[5:]
 
