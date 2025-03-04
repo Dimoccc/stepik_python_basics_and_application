@@ -1,4 +1,5 @@
 #https://habr.com/ru/articles/349860/
+# https://docs-python.ru/standart-library/modul-re-python/sintaksis-reguljarnogo-vyrazhenija/
 
 import re
 # print(re.match.__doc__)
